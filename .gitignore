@@ -1,0 +1,26 @@
+
+# Ignore build outputs
+BoggleSolver/obj/
+
+# Ignore IDE and editor-specific files
+BoggleSolver/.vscode/
+BoggleSolver/.vsconfig
+BoggleSolver/.vs/
+
+# Ignore lock files
+package-lock.json
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.o
+*.a
+*.out
