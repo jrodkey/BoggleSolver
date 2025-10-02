@@ -106,7 +106,7 @@ namespace BoggleSolver.Board
                 {
                     // Retrieve the node that correlates to the gameboard's position, if it exists,
                     // then traverse.
-                    TrieNode node = root.GetNode(m_gameLogistics.GameBoard[row, column].Letter);
+                    TrieNode? node = root.GetNode(m_gameLogistics.GameBoard[row, column].Letter);
                     if (node != null)
                     {
                         word = word + m_gameLogistics.GameBoard[row, column].Letter;
@@ -145,7 +145,7 @@ namespace BoggleSolver.Board
                 for (int i = 0; i < TrieNode.MAX_LETTERS; ++i)
                 {
                     char nextLetter = (char)(i + 'a');
-                    TrieNode nextNode = root.GetNode(nextLetter);
+                    TrieNode? nextNode = root.GetNode(nextLetter);
                     if (nextNode != null)
                     {
                         // Recursive Search Pattern:

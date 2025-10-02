@@ -12,3 +12,4 @@ d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\
 d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.pdb
 d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.genruntimeconfig.cache
 d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\ref\BoggleSolver.dll
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.sourcelink.json

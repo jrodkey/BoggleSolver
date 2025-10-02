@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoggleSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7305ad4fc84e207d04def8d88a5b4b6b442b502")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoggleSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoggleSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

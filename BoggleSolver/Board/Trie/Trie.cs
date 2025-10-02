@@ -41,7 +41,7 @@ namespace BoggleSolver.Board.TrieStructure
                 // If a node doesn't exists for this letter, create one, add it 
                 // and store the node.
                 char letter = word[l];
-                TrieNode nextNode = node.GetNode(letter);
+                TrieNode? nextNode = node.GetNode(letter);
                 if (nextNode == null)
                 {
                     nextNode = new TrieNode();

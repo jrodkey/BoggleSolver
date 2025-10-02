@@ -39,7 +39,7 @@ namespace BoggleSolver.Board.TrieStructure
             m_terminal = isTerminal;
         }
 
-        public TrieNode GetNode(char letter) 
+        public TrieNode? GetNode(char letter) 
         {
             if (m_edges.ContainsKey(letter))
             {
