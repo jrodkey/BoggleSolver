@@ -1,0 +1,14 @@
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\bin\Debug\net8.0\BoggleSolver.exe
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\bin\Debug\net8.0\BoggleSolver.deps.json
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\bin\Debug\net8.0\BoggleSolver.runtimeconfig.json
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\bin\Debug\net8.0\BoggleSolver.dll
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\bin\Debug\net8.0\BoggleSolver.pdb
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.GeneratedMSBuildEditorConfig.editorconfig
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.AssemblyInfoInputs.cache
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.AssemblyInfo.cs
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.csproj.CoreCompileInputs.cache
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.dll
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\refint\BoggleSolver.dll
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.pdb
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\BoggleSolver.genruntimeconfig.cache
+d:\Development\Custom\BungieProgrammingTest\BoggleSolver\BoggleSolver\obj\Debug\net8.0\ref\BoggleSolver.dll
